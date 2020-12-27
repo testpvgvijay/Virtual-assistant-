@@ -10,6 +10,6 @@ It is capable of opening websites like Google, Youtube, etc., in a web browser.
 It is capable of opening your code editor or IDE with a single voice command.
 It can send email with attchments for you
 
-note : not using any machint learing algorithm
+note : not using any machine learing algorithm
 
  
